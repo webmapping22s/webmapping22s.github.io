@@ -40,8 +40,8 @@ Alle drei Bestandteile müssen positiv absolviert werden.
 * Plagiate werden für beide Parteien negativ beurteilt
 
 ### Links
-* [Linksammlung](https://webmapping.github.io/links.md)
-* [Arbeitsbeispiele](https://webmapping.github.io/examples.md)
+* [Linksammlung](https://webmapping.github.io/links)
+* [Arbeitsbeispiele](https://webmapping.github.io/examples)
 * [OLAT-Kurs](https://lms.uibk.ac.at/url/RepositoryEntry/5187895382)
 * [https://github.com/webmapping](https://github.com/webmapping)
 * [https://webmapping.github.io](https://webmapping.github.io)
