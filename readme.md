@@ -41,6 +41,7 @@ Alle drei Bestandteile müssen positiv absolviert werden.
 
 ### Links
 * [Linksammlung](https://webmapping.github.io/links)
+* [Link Checker](https://webmapping.github.io/linkchecker.html)
 * [Arbeitsbeispiele](https://webmapping.github.io/examples)
 * [OLAT-Kurs](https://lms.uibk.ac.at/url/RepositoryEntry/5187895382)
 * [https://github.com/webmapping](https://github.com/webmapping)
