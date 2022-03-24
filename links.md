@@ -8,11 +8,21 @@
 
 ## Webtools
 
+### Git
+
 - [GitHub: Where the world builds software](https://github.com/)
+- [GitLab: The DevOps Platform has arrived](https://gitlab.com/)
+- [Gitea: A painless self-hosted Git service](https://gitea.io/)
+
+### Bilder
+
 - [Pixabay: Kostenlose Bilder und Videos](https://pixabay.com/)
 - [RedKetchup: Crop & Resize Images Online ](https://redketchup.io/image-resizer)
-- [Unicode Zeichentabelle](https://unicode-table.com/)
 - [Wikimedia Commons: Bilder der Wikipedia](https://commons.wikimedia.org/)
+
+### Verschiedenes
+
+- [Unicode Zeichentabelle](https://unicode-table.com/)
 
 ## Leaflet
 
