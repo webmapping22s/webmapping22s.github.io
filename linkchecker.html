@@ -25,6 +25,8 @@
     <section style="display:none">
         <h3>Sind diese Links mit deinem github.com Benutzernamen erreichbar?</h3>
 
+        <p>Deine Repo: <span id="repo"></span></p>
+
         <h4>Neuseelandreise</h4>
         <table>
             <tr><td><a href="#" target="github">https://username.github.io/nz/index.html</a></td><td>Starseite</td>
@@ -52,6 +54,8 @@
 
         button.onclick = () => {
             if (user.value) {
+                document.querySelector("#repo").innerHTML = `<a href="https://github.com/${user.value}">https://github.com/${user.value}</a>`;
+
                 for (let link of links) {
                     link.innerHTML = link.innerHTML.replace(/^https:\/\/[^\.]+/, `https://${user.value}`);
                     link.href = link.innerHTML;
