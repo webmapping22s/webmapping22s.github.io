@@ -23,6 +23,7 @@
 ### Verschiedenes
 
 - [Unicode Zeichentabelle](https://unicode-table.com/)
+- [CSS Schatten für Neuseelandreise](https://www.w3schools.com/css/css3_shadows_box.asp) (siehe "Cards")
 
 ## Leaflet
 
