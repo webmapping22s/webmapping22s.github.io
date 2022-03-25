@@ -25,36 +25,37 @@
     <section style="display:none">
         <h3>Sind diese Links mit deinem github.com Benutzernamen erreichbar?</h3>
 
-        <p>Deine Repo: <span id="repo"></span></p>
+        <p>Dein Repo: <a href="#" target="github" data-url="https://github.com/username"></a></p>
+        <p>Dein User-Repo: <a href="#" target="github" data-url="https://github.com/username/username.github.io"></a></p>
 
         <h4>Neuseelandreise</h4>
         <table>
-            <tr><td><a href="#" target="github">https://username.github.io/nz/index.html</a></td><td>Starseite</td>
-            <tr><td><a href="#" target="github">https://username.github.io/nz/main.css</a></td><td>Stylesheet</td>
-            <tr><td><a href="#" target="github">https://username.github.io/nz/images/header.jpg</a></td><td>Headerbild, 1280x365px</td>
-            <tr><td><a href="#" target="github">https://username.github.io/nz/images/user.jpg</a></td><td>Userbild, 100x100px</td>
-            <tr><td><a href="#" target="github">https://username.github.io/nz/images/attraction.jpg</a></td><td>Bild einer Attraktion, max. 900px breit, JPEG</td>
-            <tr><td><a href="#" target="github">https://username.github.io/nz/images/attraction.webp</a></td><td>Bild einer Attraktion, max. 900px breit, WEBP</td>
+            <tr><td><a href="#" target="github" data-url="https://username.github.io/nz/index.html"></a></td><td>Starseite</td>
+            <tr><td><a href="#" target="github" data-url="https://username.github.io/nz/main.css"></a></td><td>Stylesheet</td>
+            <tr><td><a href="#" target="github" data-url="https://username.github.io/nz/images/header.jpg"></a></td><td>Headerbild, 1280x365px</td>
+            <tr><td><a href="#" target="github" data-url="https://username.github.io/nz/images/user.jpg"></a></td><td>Userbild, 100x100px</td>
+            <tr><td><a href="#" target="github" data-url="https://username.github.io/nz/images/attraction.jpg"></a></td><td>Bild einer Attraktion, max. 900px breit, JPEG</td>
+            <tr><td><a href="#" target="github" data-url="https://username.github.io/nz/images/attraction.webp"></a></td><td>Bild einer Attraktion, max. 900px breit, WEBP</td>
         </table>
         <h4>Codecademy</h4>
         <table>
-            <tr><td><a href="#" target="github">https://username.github.io/codecademy/html_introduction/index.html</a></td><td>Workload 2 - HTML: Introduction, HTML-Seite</td></tr>
-            <tr><td><a href="#" target="github">https://username.github.io/codecademy/css_setup/index.html</a></td><td>Workload 2 - CSS: Setup and Syntax, HTML-Seite</td></tr>
-            <tr><td><a href="#" target="github">https://username.github.io/codecademy/css_setup/style.css</a></td><td>Workload 2 - CSS: Setup and Syntax, CSS-Stylesheet</td></tr>
+            <tr><td><a href="#" target="github" data-url="https://username.github.io/codecademy/html_introduction/index.html"></a></td><td>Workload 2 - HTML: Introduction, HTML-Seite</td></tr>
+            <tr><td><a href="#" target="github" data-url="https://username.github.io/codecademy/css_setup/index.html"></a></td><td>Workload 2 - CSS: Setup and Syntax, HTML-Seite</td></tr>
+            <tr><td><a href="#" target="github" data-url="https://username.github.io/codecademy/css_setup/style.css"></a></td><td>Workload 2 - CSS: Setup and Syntax, CSS-Stylesheet</td></tr>
         </table>
     </section>
     <script>
         const user = document.querySelector("#user");
         const button = document.querySelector("#button");
-        const links = document.querySelectorAll("table tr td a");
+        const links = document.querySelectorAll("a");
 
         button.onclick = () => {
             if (user.value) {
-                document.querySelector("#repo").innerHTML = `<a href="https://github.com/${user.value}">https://github.com/${user.value}</a>`;
-
                 for (let link of links) {
-                    link.innerHTML = link.innerHTML.replace(/^https:\/\/[^\.]+/, `https://${user.value}`);
-                    link.href = link.innerHTML;
+                    if (link.dataset.url) {
+                        link.href = link.dataset.url.replace(/username/g, user.value);
+                        link.innerHTML = link.dataset.url.replace(/username/g, user.value);
+                    }
                 }
                 document.querySelector("section").style.display = "block";
             } else {
