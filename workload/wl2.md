@@ -15,4 +15,4 @@ Am Ende jedes Tutorials sollt ihr den letzten Stand von *index.html* und *style.
 
 Fer [Link Checker](https://webmapping.github.io/linkchecker.html) hilft euch bei der Überprüfung, ob die Dateien am richtigen Ort liegen
 
-Bis spätestens **Donnerstag, 23. März 2022 mittags** sollen die HTML- und CSS-Dateien über die angegebenen Links erreichbar sein
+Bis spätestens **Donnerstag, 31. März 2022 mittags** sollen die HTML- und CSS-Dateien über die angegebenen Links erreichbar sein
