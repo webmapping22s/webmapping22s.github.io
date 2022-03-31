@@ -1,6 +1,6 @@
 # Linksammlung
 
-## Lernen 2
+## Lernen
 
 - [Codecademy - Online Tutorials](https://www.codecademy.com/)
 - [MDN Web Docs - HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
