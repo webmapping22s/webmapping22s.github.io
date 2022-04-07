@@ -4,3 +4,4 @@
 * Web: <https://webmapping.github.io/nz/index.html>
 * Howto: <https://webmapping.github.io/nz/howto>
 * Repo: <https://github.com/webmapping/webmapping.github.io/tree/main/nz>
+* Datensatz Hütten: <https://github.com/webmapping/webmapping.github.io/tree/main/data/huts.js>
