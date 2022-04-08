@@ -29,6 +29,8 @@
 
 ## Daten der Beispiele
 
+- [Department of Conservation (DOC) - Huts and bivvies](https://catalogue.data.govt.nz/dataset/doc-huts1)
+
 ## Software
 
 - [GIT-Client git-scm](https://git-scm.com/)
