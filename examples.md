@@ -8,6 +8,7 @@
     * [Teil 1 - HTML Grundgerüst](https://webmapping.github.io/nz/howto1)
     * [Teil 2 - CSS Layout, Font Awesome & Google Fonts](https://webmapping.github.io/nz/howto2)
     * [Teil 3 - Übersichtskarte mit Leaflet (Javascript Erstkontakt)](https://webmapping.github.io/nz/howto3)
+    * [Teil 4 - Marker für Etappen & DOC Hütten in der Karte und Etappen-Navigation](https://webmapping.github.io/nz/howto4)
 * Datensatz Etappen:
     * LibreOffice: <https://webmapping.github.io/nz/etappen.ods>
     * Javascript: <https://webmapping.github.io/nz/etappen.js>
