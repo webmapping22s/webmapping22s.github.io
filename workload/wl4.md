@@ -2,7 +2,7 @@
 
 ### Eure Etappe der Neuseelandreise fertig machen
 
-Bringt Inhalt und Layout eurer Etappe auf den letzten Stand - letzter Stand heißt:
+Bringt mit Hilfe der HOWTOs unter <https://webmapping.github.io/examples> sowie [unserer Seite](https://webmapping.github.io/nz/) als Vorlage, Inhalt und Layout eurer Etappe auf den letzten Stand - letzter Stand heißt:
 
 * Google Fonts und Font Awesome werden verwendet
 * im &lt;header>-Bereich finden sich Banner und Userbild mit Link zum **eigenen** Github-Repo
