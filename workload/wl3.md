@@ -1,4 +1,4 @@
-## Workload für die Woche vom 31. März bis 7. April 2021
+## Workload für die Woche vom 31. März bis 7. April 2022
 
 ### Eure Etappe der Neuseelandreise fertig machen
 
@@ -19,4 +19,4 @@
 
 Der [Link Checker](https://webmapping.github.io/linkchecker.html) hilft euch bei der Überprüfung, ob die Dateien am richtigen Ort liegen
 
-Bis spätestens **Donnerstag, 7. April 2021 mittags** sollen die Tutorials und die Etappenseite über die entsprechenden Links erreichbar sein
+Bis spätestens **Donnerstag, 7. April 2022 mittags** sollen die Tutorials und die Etappenseite über die entsprechenden Links erreichbar sein
