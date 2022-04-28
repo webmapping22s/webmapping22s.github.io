@@ -6,7 +6,7 @@
 * 5 ECTS-AP (entspricht 5*25 Arbeitsstunden)
 * Pflichtmodul 5: Geographische Arbeitsmethoden
 
-### Termine
+### Termine test
 
 * 17.03. HTML (Hypertext Markup Language) & Arbeitstechniken (Visual Studio Code & GIT)
 * 24.03. HTML & CSS (Cascading Stylesheets)
