@@ -19,4 +19,4 @@ Bringt mit Hilfe der HOWTOs unter <https://webmapping.github.io/examples> sowie 
 
 Der [Link Checker](https://webmapping.github.io/linkchecker.html) hilft euch bei der Überprüfung, ob die Dateien am richtigen Ort liegen
 
-Bis spätestens **Donnerstag, 28. April 2021 mittags** sollen die Etappenseiten über die entsprechenden Links erreichbar sein
+Bis spätestens **Donnerstag, 28. April 2022 mittags** sollen die Etappenseiten über die entsprechenden Links erreichbar sein
