@@ -1,38 +1,49 @@
 # Linksammlung
 
+## Leaflet
+
+- [Leaflet Homepage](https://leafletjs.com/)
+- [Leaflet Dokumentation](https://leafletjs.com/reference.html)
+- [Leaflet Plugins](https://leafletjs.com/plugins.html)
+    - [Leaflet.providers](https://github.com/leaflet-extras/leaflet-providers)
+    - [Leaflet.fullscreen](https://github.com/Leaflet/Leaflet.fullscreen)
+    - [Leaflet.MiniMap](https://github.com/Norkart/Leaflet-MiniMap)
+
+## Daten der Beispiele
+
+- [basemap.at - Verwaltungsgrundkarte von Österreich](https://basemap.at)
+- [Department of Conservation (DOC) - Huts and bivvies](https://catalogue.data.govt.nz/dataset/doc-huts1)
+- [Open Data - Digitales Wien](https://digitales.wien.gv.at/open-data/)
+
+
+## Webtools / helpers
+
+- [Colors - A nicer color palette for the web](https://clrs.cc/)
+- [CSS Schatten für Neuseelandreise](https://www.w3schools.com/css/css3_shadows_box.asp) (siehe "Cards")
+- [Map Icons Collection - 1000+ free & customizable icons for maps](https://mapicons.mapsmarker.com/)
+- [RedKetchup: Crop & Resize Images Online ](https://redketchup.io/image-resizer)
+- [Unicode Zeichentabelle](https://unicode-table.com/)
+
+
+### Bilder
+
+- [Pixabay: Kostenlose Bilder und Videos](https://pixabay.com/)
+- [Wikimedia Commons: Bilder der Wikipedia](https://commons.wikimedia.org/)
+
 ## Lernen
 
 - [Codecademy - Online Tutorials](https://www.codecademy.com/)
 - [MDN Web Docs - HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [SELFHTML-Wiki](https://wiki.selfhtml.org/)
 
-## Webtools
-
-### Git
-
-- [GitHub: Where the world builds software](https://github.com/)
-- [GitLab: The DevOps Platform has arrived](https://gitlab.com/)
-- [Gitea: A painless self-hosted Git service](https://gitea.io/)
-
-### Bilder
-
-- [Pixabay: Kostenlose Bilder und Videos](https://pixabay.com/)
-- [RedKetchup: Crop & Resize Images Online ](https://redketchup.io/image-resizer)
-- [Wikimedia Commons: Bilder der Wikipedia](https://commons.wikimedia.org/)
-
-### Verschiedenes
-
-- [Unicode Zeichentabelle](https://unicode-table.com/)
-- [CSS Schatten für Neuseelandreise](https://www.w3schools.com/css/css3_shadows_box.asp) (siehe "Cards")
-
-## Leaflet
-
-## Daten der Beispiele
-
-- [Department of Conservation (DOC) - Huts and bivvies](https://catalogue.data.govt.nz/dataset/doc-huts1)
-
 ## Software
 
-- [GIT-Client git-scm](https://git-scm.com/)
+- **Git**
+    - [GIT-Client git-scm](https://git-scm.com/)
+    - [GitHub: Where the world builds software](https://github.com/)
+    - [GitLab: The DevOps Platform has arrived](https://gitlab.com/)
+    - [Gitea: A painless self-hosted Git service](https://gitea.io/)
+
+
 - [Visual Studio Code Editor](https://code.visualstudio.com/)
 
