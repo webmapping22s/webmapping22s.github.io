@@ -17,7 +17,7 @@
 
         * **A** Appartment, Farbe PURPLE - `#B10DC9`, Icon [apartment-2](https://mapicons.mapsmarker.com/markers/friends-family/apartment/)
 
-    * ergänzt die Datenquellen mit Links zu den Hauptseiten der fünf Layer <https://data.gv.at> im Footer
+    * ergänzt die Datenquellen mit Links zu den Hauptseiten der fünf Layer bei <https://data.gv.at> im Footer
 
 
 Für das Wien Beispiel sind die drei HOWTO-Anleitungen jetzt auch direkt bei unserer Seite <https://webmapping.github.io/wien/> rechts oben verlinkt.
