@@ -15,7 +15,7 @@
 
         * **P** - Pension, Farbe PURPLE - `#B10DC9`, Icon [lodging_0star](https://mapicons.mapsmarker.com/markers/restaurants-bars/hotels/lodging/)
 
-        * **A** Appartment, Farbe PURPLE - `#B10DC9`, Icon [apartment-2](https://mapicons.mapsmarker.com/markers/friends-family/apartment/)
+        * **A** - Appartment, Farbe PURPLE - `#B10DC9`, Icon [apartment-2](https://mapicons.mapsmarker.com/markers/friends-family/apartment/)
 
     * ergänzt die Datenquellen mit Links zu den Hauptseiten der fünf Layer bei <https://data.gv.at> im Footer
 
