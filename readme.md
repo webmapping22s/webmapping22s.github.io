@@ -18,11 +18,11 @@
 * **Osterferien**
 
 * 28.04. Leaflet Basics: Hintergrundlayer, Overlays, Interface Plugins
-* 05.05. Leaflet Basics: GeoJSON Punkte, Linien & Flächen, async functions, await fetch
-* 12.05. Leaflet App: thematische Darstellung mit Div-Icons über GeoJSON
-* 19.05. Leaflet App: Größenkreise über CSV/JSON-Dateien als Datenquelle
-* 02.06. Leaflet App: Höhenprofile aus GPX-Dateien
-* 09.06. Leaflet App: Wikipedia Webservices, DOM-Manipulationen
+* 05.05. GeoJSON Punkte als Icons, async functions, await fetch
+* 12.05. GeoJSON Linien und Flächen mit Styling, Markercluster Plugin, Feature-Suche
+* 19.05. App: Wetterstationen mit DivIcons und thematischer Darstellung, RainViewer Plugin
+* 02.06. App: Höhenprofile aus GPX-Dateien
+* 09.06. App: Wikipedia Webservices, DOM-Manipulationen
 
 * **Projektphase**
 
