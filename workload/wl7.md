@@ -8,7 +8,7 @@
 
     * verwendet dieses [aws-tirol Template](https://webmapping.github.io/templates/aws-tirol.zip) für die Seite
 
-    * die Seite soll unter **https://usernmane.github.io/was-tirol/** erreichbar sein
+    * die Seite soll unter **https://usernmane.github.io/aws-tirol/** erreichbar sein
 
 2. Implementiert den Layer mit den Wetterstationen
 
