@@ -8,6 +8,9 @@
     * [Teil 1 - Grundkarte](https://webmapping.github.io/wien/howto1)
     * [Teil 2 - GeoJSON asynchron laden und default Visualisierung](https://webmapping.github.io/wien/howto2)
     * [Teil 3 - Icons für Punktlayer verwenden](https://webmapping.github.io/wien/howto3)
+    * [Teil 4 - Linien und Flächen verfeinern](https://webmapping.github.io/wien/howto4)
+    * [Teil 5 - Leaflet Markercluster](https://webmapping.github.io/wien/howto5)
+    * [Teil 6 - Hotelsuche mit HTML Formular und Autocomplete](https://webmapping.github.io/wien/howto6)
 
 ## Neuseelandreise
 
