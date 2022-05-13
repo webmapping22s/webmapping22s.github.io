@@ -14,7 +14,7 @@
 
     * schaut euch zuerst den vorgegeben Javascript Code in `main.js` genau an ...
 
-    * verwendet als Icon `wifi.png` aus dem `icon/` Verzeichnis
+    * verwendet als Icon `wifi.png` aus dem `icons/` Verzeichnis
 
     * fügt zu jedem Marker ein Popup mit dem Namen der Station und ihrer Seehöhe in Metern (in Klammern) hinzu
 
