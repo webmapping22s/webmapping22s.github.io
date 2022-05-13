@@ -7,20 +7,23 @@
 - [Leaflet Plugins](https://leafletjs.com/plugins.html)
     - [Leaflet.providers](https://github.com/leaflet-extras/leaflet-providers)
     - [Leaflet.fullscreen](https://github.com/Leaflet/Leaflet.fullscreen)
+    - [Leaflet.markercluster](https://github.com/Leaflet/Leaflet.markercluster)
     - [Leaflet.MiniMap](https://github.com/Norkart/Leaflet-MiniMap)
 
 ## Daten der Beispiele
 
 - [basemap.at - Verwaltungsgrundkarte von Österreich](https://basemap.at)
 - [Department of Conservation (DOC) - Huts and bivvies](https://catalogue.data.govt.nz/dataset/doc-huts1)
+- [Lawinen.report](https://lawinen.report/)
 - [Open Data - Digitales Wien](https://digitales.wien.gv.at/open-data/)
+- [Wetterstationsdaten Tirol](https://www.data.gv.at/katalog/dataset/bb43170b-30fb-48aa-893f-51c60d27056f)
 
 
 ## Webtools / helpers
 
 - [Colors - A nicer color palette for the web](https://clrs.cc/)
-- [CSS Schatten für Neuseelandreise](https://www.w3schools.com/css/css3_shadows_box.asp) (siehe "Cards")
 - [Map Icons Collection - 1000+ free & customizable icons for maps](https://mapicons.mapsmarker.com/)
+- [CSS Schatten für Neuseelandreise](https://www.w3schools.com/css/css3_shadows_box.asp) (siehe "Cards")
 - [RedKetchup: Crop & Resize Images Online ](https://redketchup.io/image-resizer)
 - [Unicode Zeichentabelle](https://unicode-table.com/)
 
