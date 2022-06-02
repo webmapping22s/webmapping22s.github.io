@@ -9,6 +9,7 @@
     - [Leaflet.fullscreen](https://github.com/Leaflet/Leaflet.fullscreen)
     - [Leaflet.markercluster](https://github.com/Leaflet/Leaflet.markercluster)
     - [Leaflet.MiniMap](https://github.com/Norkart/Leaflet-MiniMap)
+    - [Leaflet.Rainviewer](https://github.com/mwasil/Leaflet.Rainviewer)
 
 ## Daten der Beispiele
 

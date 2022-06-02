@@ -1,5 +1,15 @@
 # Arbeitsbeispiele
 
+## Wetterstationen Tirol
+
+* Web: <https://webmapping.github.io/aws-tirol/index.html>
+* Repo: <https://github.com/webmapping/aws-tirol>
+* Howtos:
+    * [Teil 1 - Basiskarte mit Stationen und Popup](https://webmapping.github.io/aws-tirol/howto1)
+    * [Teil 2 - Temperatur Layer mit L.divIcon() und COLORS Objekt](https://webmapping.github.io/aws-tirol/howto2)
+    * [Teil 3 - Layer Schneehöhen, Relative Luftfeuchtigkeit & Windstärke](https://webmapping.github.io/aws-tirol/howto3)
+    * [Teil 4 - Leaflet.Rainviewer](https://webmapping.github.io/aws-tirol/howto4)
+
 ## Wien
 
 * Web: <https://webmapping.github.io/wien/index.html>
