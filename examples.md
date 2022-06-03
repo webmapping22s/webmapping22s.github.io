@@ -1,5 +1,14 @@
 # Arbeitsbeispiele
 
+## Wettervorhersagen
+
+* Web: <https://webmapping.github.io/forecast/index.html>
+* Repo: <https://github.com/webmapping/forecast>
+* Howtos:
+    * [Teil 1 - ECMWF Windvorhersage mit Leaflet velocity](https://webmapping.github.io/forecast/howto1)
+    * [Teil 2 - Wettervorhersage MET Norway implementieren](https://webmapping.github.io/forecast/howto2)
+    * [ECMWF Windvorhersagedaten für Leaflet velocity aufbereiten](https://webmapping.github.io/forecast/howto_ecmwf2json)
+
 ## Wetterstationen Tirol
 
 * Web: <https://webmapping.github.io/aws-tirol/index.html>

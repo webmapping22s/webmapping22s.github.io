@@ -21,8 +21,8 @@
 * 05.05. GeoJSON Punkte als Icons, async functions, await fetch
 * 12.05. GeoJSON Linien und Flächen mit Styling, Markercluster Plugin, Feature-Suche
 * 19.05. App: Wetterstationen mit DivIcons und thematischer Darstellung, RainViewer Plugin
-* 02.06. App: Höhenprofile aus GPX-Dateien
-* 09.06. App: Wikipedia Webservices, DOM-Manipulationen
+* 02.06. App: Wettervorhersagen Wind & Wetter, Leaflet Velocity
+* 09.06. App: Höhenprofile aus GPX-Dateien
 
 * **Projektphase**
 

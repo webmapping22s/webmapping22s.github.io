@@ -10,12 +10,15 @@
     - [Leaflet.markercluster](https://github.com/Leaflet/Leaflet.markercluster)
     - [Leaflet.MiniMap](https://github.com/Norkart/Leaflet-MiniMap)
     - [Leaflet.Rainviewer](https://github.com/mwasil/Leaflet.Rainviewer)
+    - [Leaflet.Velocity](https://github.com/onaci/leaflet-velocity)
 
 ## Daten der Beispiele
 
 - [basemap.at - Verwaltungsgrundkarte von Österreich](https://basemap.at)
 - [Department of Conservation (DOC) - Huts and bivvies](https://catalogue.data.govt.nz/dataset/doc-huts1)
+- [ECMWF Open Data](https://www.ecmwf.int/en/forecasts/datasets/open-data)
 - [Lawinen.report](https://lawinen.report/)
+- [MET Norway Locationforecast](https://api.met.no/weatherapi/locationforecast/2.0/documentation)
 - [Open Data - Digitales Wien](https://digitales.wien.gv.at/open-data/)
 - [Wetterstationsdaten Tirol](https://www.data.gv.at/katalog/dataset/bb43170b-30fb-48aa-893f-51c60d27056f)
 
