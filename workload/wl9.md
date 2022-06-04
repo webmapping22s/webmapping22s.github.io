@@ -6,6 +6,8 @@ In der letzten Session haben wir leider vergessen, das Repo `forecast` auch onli
 
 ## 2. Das letzte Beispiel Bike Trail Tirol vorbereiten
 
+Die zufällige Zuteilung zu den Etappen findet ihr im OLAT Kurs in `biketirol.ods`
+
 In der letzten Session werden wir noch ein kurzes Beispiel mit Etappen des [Bike Trail Tirol](https://www.tirol.at/reisefuehrer/sport/mountainbiken/bike-trail-tirol) machen. Bitte bereitet Folgendes vor:
 
 1. erstellt ein neues Repo `biketirol` in eurem Account auf github.com
@@ -14,7 +16,5 @@ In der letzten Session werden wir noch ein kurzes Beispiel mit Etappen des [Bike
 4. speichert den GPX Track eurer Etappe im Format **.gpx** lokal im Unterverzeichnis `data/`
 5. committed und pushed alle Schritte
 6. macht das Repo `biketirol` online verfügbar und kontrolliert mit dem Linkchecker, ob das auch funktioniert hat
-
-Die zufällige Zuteilung zu den Etappen findet ihr im OLAT Kurs in `biketirol.ods`
 
 Bis spätestens **Donnerstag, 9. Juni 2022 mittags** sollen die Aufgaben erledigt sein und beide Repos online sichtbar sein.

@@ -8,3 +8,4 @@
 * [Workload 6: Hotels und Unterkünfte beim Wienbeispiel mit Icons als Overlay visualiseren](https://webmapping.github.io/workload/wl6)
 * [Workload 7: Wetterstationen Tirol Beispiel beginnen](https://webmapping.github.io/workload/wl7)
 * [Workload 8: Das Wetterstationen Tirol Beispiel erweitern](https://webmapping.github.io/workload/wl8)
+* [Workload 9: Bike Trail Tirol Beispiel vorbereiten](https://webmapping.github.io/workload/wl9)
