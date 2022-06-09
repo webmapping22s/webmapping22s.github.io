@@ -22,7 +22,7 @@
 * 12.05. GeoJSON Linien und Flächen mit Styling, Markercluster Plugin, Feature-Suche
 * 19.05. App: Wetterstationen mit DivIcons und thematischer Darstellung, RainViewer Plugin
 * 02.06. App: Wettervorhersagen Wind & Wetter, Leaflet Velocity
-* 09.06. App: Höhenprofile aus GPX-Dateien
+* 09.06. App: Höhenprofile aus GPX-Dateien, GeoJSON aus Shapefiles, JSON aus CSV
 
 * **Projektphase**
 
