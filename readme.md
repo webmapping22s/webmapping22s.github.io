@@ -32,7 +32,7 @@
 
 * 1/3 **Anwesenheit & aktive Mitarbeit**: maximal 2 Einheiten fehlen
 * 1/3 **Workload zwischen den Einheiten**: bis zum jeweiligen Abgabetermin zu erfüllen
-* 1/3 **Gruppenprojekt**: Web-Applikation mit Präsentation
+* 1/3 **Gruppenprojekt**: [Web-Applikation mit Präsentation](https://webmapping.github.io/projects)
 
 Alle drei Bestandteile müssen positiv absolviert werden.
 
@@ -49,7 +49,7 @@ Alle drei Bestandteile müssen positiv absolviert werden.
 * [Link Checker](https://webmapping.github.io/linkchecker.html)
 * [Arbeitsbeispiele](https://webmapping.github.io/examples)
 * [Workload](https://webmapping.github.io/workload/index)
-* [Präsentation](https://webmapping.github.io/projects)
+* [Gruppenprojekt](https://webmapping.github.io/projects)
 * [OLAT-Kurs](https://lms.uibk.ac.at/url/RepositoryEntry/5187895382)
 * [https://github.com/webmapping](https://github.com/webmapping)
 * [https://webmapping.github.io](https://webmapping.github.io)
