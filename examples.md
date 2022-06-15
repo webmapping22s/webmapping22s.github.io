@@ -2,13 +2,16 @@
 
 ## Geodaten handling
 
-* Shapefiles mit QGis in GeoJSON konvertieren ([Viertelgrenzen in Oberösterreich](https://webmapping.github.io/ooe/))
-* Konvertieren von CSV nach GeoJSON ([Graz Bohrpunkte](https://webmapping.github.io/graz/))
+* Shapefiles mit QGis in GeoJSON konvertieren: [Viertelgrenzen in Oberösterreich](https://webmapping.github.io/ooe/) | [Howto](https://webmapping.github.io/ooe/howto)
+* Konvertieren von CSV nach GeoJSON: [Graz Bohrpunkte](https://webmapping.github.io/graz/) | [Howto](https://webmapping.github.io/graz/howto)
 
 ## Bike Trail Tirol
 
 * Web: <https://webmapping.github.io/biketirol/index.html>
 * Repo: <https://github.com/webmapping/biketirol>
+* Howtos:
+    * [Teil 1 - Visualisieren eines GPX-Tracks mit leaflet-gpx](https://webmapping.github.io/biketirol/howto1)
+    * [Teil 2 - Höhenprofil aus dem GPX-Track mit leaflet-elevation erstellen](https://webmapping.github.io/biketirol/howto2)
 
 ## Wettervorhersagen
 
