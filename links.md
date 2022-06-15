@@ -11,6 +11,8 @@
     - [Leaflet.MiniMap](https://github.com/Norkart/Leaflet-MiniMap)
     - [Leaflet.Rainviewer](https://github.com/mwasil/Leaflet.Rainviewer)
     - [Leaflet.Velocity](https://github.com/onaci/leaflet-velocity)
+    - [Leaflet.gpx](https://github.com/mpetazzoni/leaflet-gpx)
+    - [Leaflet.elevation](https://github.com/Raruto/leaflet-elevation)
 
 ## Daten der Beispiele
 
