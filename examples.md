@@ -1,5 +1,15 @@
 # Arbeitsbeispiele
 
+## Geodaten handling
+
+* Shapefiles mit QGis in GeoJSON konvertieren ([Viertelgrenzen in Oberösterreich](https://webmapping.github.io/ooe/))
+* Konvertieren von CSV nach GeoJSON ([Graz Bohrpunkte](https://webmapping.github.io/graz/))
+
+## Bike Trail Tirol
+
+* Web: <https://webmapping.github.io/biketirol/index.html>
+* Repo: <https://github.com/webmapping/biketirol>
+
 ## Wettervorhersagen
 
 * Web: <https://webmapping.github.io/forecast/index.html>
