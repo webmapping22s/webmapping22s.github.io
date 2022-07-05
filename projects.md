@@ -2,9 +2,15 @@
 
 In der abschließenden Gruppenarbeit für den Web mapping Kurs sollt ihr die im Kurs vorgestellten Techniken zur Erstellung von Kartenapplikationen mit *HTML*, *CSS* und *Javascript* in einem frei wählbaren Projekt anwenden und präsentieren.
 
-## Teams
+## Teams (Reihenfolge für die Präsemtationen)
 
-- fünf 3er-Teams, ein 2er-Team
+1. [Sommer- und Winteraktivitäten in Wien](https://wien-pa-ma.github.io/)
+2. [Fußballeuropameisterschaft 2020 (2021)](https://euro2021projekt.github.io/)
+3. [Almzentren Tirol](https://almzentrentirol.github.io/)
+4. [Moore und Torfkörper unter landwirtschaftlich genutzter Fläche in Tirol](https://motoulatirol.github.io/)
+5. [Gletschermapping – kurzweilige (virtuelle) Tour durchs ewige Eis](https://webmapscience.github.io/)
+6. [A Tour – A Day](https://skitourentirol.github.io/)
+7. [Bike-Trails Tirol – unsere drei persönlichen Highlights](https://fan-biking.github.io/)
 
 ## Vorgaben
 
