@@ -47,7 +47,7 @@
 ## Neuseelandreise
 
 * Web: <https://webmapping.github.io/nz/index.html>
-* Repo: <https://github.com/webmapping/webmapping.github.io/tree/main/nz>
+* Repo: <https://github.com/webmapping/nz>
 * Howtos:
     * [Teil 1 - HTML Grundgerüst](https://webmapping.github.io/nz/howto1)
     * [Teil 2 - CSS Layout, Font Awesome & Google Fonts](https://webmapping.github.io/nz/howto2)
@@ -60,4 +60,4 @@
 * Datensatz Hütten:
     * Datenquelle: <https://catalogue.data.govt.nz/dataset/doc-huts1>
     * Javascript: <https://webmapping.github.io/nz/huts.js>
-    * [Python Skript zur Konvertierung](https://github.com/webmapping/webmapping.github.io/tree/main/nz/huts_js_create.py)
+    * [Python Skript zur Konvertierung](https://github.com/webmapping/nz/blob/main/huts_js_create.py)
