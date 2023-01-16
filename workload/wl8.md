@@ -6,7 +6,7 @@
 
 * Analog zu den bestehenden Layern soll ein weiteres Overlay für die Relative Luftfeuchtigkeit (RH) erzeugt werden. Benennt dabei das bereits bestehende Overlay `precipitation` in `humidity` mit dem Label "Relative Luftfeuchtigkeit" um, denn `precipitation` werden wir nicht mehr implementieren.
 
-* passende Farben und Schwellen zur Erweiterung von <https://webmapping.github.io/aws-tirol/colors.js> um eine Farbpalette `COLORS.humidity` findet ihr bei [wetteronline.de](https://www.wetteronline.de/?gid=10093&metparaid=RH&pcid=pc_aktuell_local&pid=p_aktuell_local&sid=ColorMap), genauer gesagt in der [SVG-Grafik der Legende](https://st.wetteronline.de/mdr/p_aktuell_local/1.0.159/images/symbology/www/ic_Humidity_390x76.svg), die ihr auf der Wetterkarte rechts oben eingebettet seht.
+* passende Farben und Schwellen zur Erweiterung von <https://webmapping22s.github.io/aws-tirol/colors.js> um eine Farbpalette `COLORS.humidity` findet ihr bei [wetteronline.de](https://www.wetteronline.de/?gid=10093&metparaid=RH&pcid=pc_aktuell_local&pid=p_aktuell_local&sid=ColorMap), genauer gesagt in der [SVG-Grafik der Legende](https://st.wetteronline.de/mdr/p_aktuell_local/1.0.159/images/symbology/www/ic_Humidity_390x76.svg), die ihr auf der Wetterkarte rechts oben eingebettet seht.
 
 ### Das Popup der Wetterstationen erweitern 
 

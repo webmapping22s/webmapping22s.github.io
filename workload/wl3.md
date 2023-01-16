@@ -17,6 +17,6 @@
 **Achtung**: der produzierte Code der letzten Lektionen ist bei beiden Tutorials leer, also verwendet bitte den Code der vorletzten Lektionen in `app.js` und `main.js`
 
 
-Der [Link Checker](https://webmapping.github.io/linkchecker.html) hilft euch bei der Überprüfung, ob die Dateien am richtigen Ort liegen
+Der [Link Checker](https://webmapping22s.github.io/linkchecker.html) hilft euch bei der Überprüfung, ob die Dateien am richtigen Ort liegen
 
 Bis spätestens **Donnerstag, 7. April 2022 mittags** sollen die Tutorials und die Etappenseite über die entsprechenden Links erreichbar sein

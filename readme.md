@@ -32,7 +32,7 @@
 
 * 1/3 **Anwesenheit & aktive Mitarbeit**: maximal 2 Einheiten fehlen
 * 1/3 **Workload zwischen den Einheiten**: bis zum jeweiligen Abgabetermin zu erfüllen
-* 1/3 **Gruppenprojekt**: [Web-Applikation mit Präsentation](https://webmapping.github.io/projects)
+* 1/3 **Gruppenprojekt**: [Web-Applikation mit Präsentation](https://webmapping22s.github.io/projects)
 
 Alle drei Bestandteile müssen positiv absolviert werden.
 
@@ -45,11 +45,11 @@ Alle drei Bestandteile müssen positiv absolviert werden.
 
 ### Links
 
-* [Linksammlung](https://webmapping.github.io/links)
-* [Link Checker](https://webmapping.github.io/linkchecker.html)
-* [Arbeitsbeispiele](https://webmapping.github.io/examples)
-* [Workload](https://webmapping.github.io/workload/index)
-* [Gruppenprojekt](https://webmapping.github.io/projects)
+* [Linksammlung](https://webmapping22s.github.io/links)
+* [Link Checker](https://webmapping22s.github.io/linkchecker.html)
+* [Arbeitsbeispiele](https://webmapping22s.github.io/examples)
+* [Workload](https://webmapping22s.github.io/workload/index)
+* [Gruppenprojekt](https://webmapping22s.github.io/projects)
 * [OLAT-Kurs](https://lms.uibk.ac.at/url/RepositoryEntry/5187895382)
-* [https://github.com/webmapping](https://github.com/webmapping)
-* [https://webmapping.github.io](https://webmapping.github.io)
+* [https://github.com/webmapping22s](https://github.com/webmapping22s)
+* [https://webmapping22s.github.io](https://webmapping22s.github.io)

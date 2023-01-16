@@ -4,9 +4,9 @@
 
 1. erstellt auf github.com ein neues Repo **aws-tirol** und bringt es online
 
-    * siehe [Wien Howto 1](https://webmapping.github.io/wien/howto1)
+    * siehe [Wien Howto 1](https://webmapping22s.github.io/wien/howto1)
 
-    * verwendet dieses [aws-tirol Template](https://webmapping.github.io/templates/aws-tirol.zip) für die Seite
+    * verwendet dieses [aws-tirol Template](https://webmapping22s.github.io/templates/aws-tirol.zip) für die Seite
 
     * die Seite soll unter **https://usernmane.github.io/aws-tirol/** erreichbar sein
 
@@ -18,6 +18,6 @@
 
     * fügt zu jedem Marker ein Popup mit dem Namen der Station und ihrer Seehöhe in Metern (in Klammern) hinzu
 
-Der [Link Checker](https://webmapping.github.io/linkchecker.html) hilft euch bei der Überprüfung, ob die Dateien am richtigen Ort liegen
+Der [Link Checker](https://webmapping22s.github.io/linkchecker.html) hilft euch bei der Überprüfung, ob die Dateien am richtigen Ort liegen
 
 Bis spätestens **Donnerstag, 19. Mai 2022 mittags** soll die fertige Seite online erreichbar sein

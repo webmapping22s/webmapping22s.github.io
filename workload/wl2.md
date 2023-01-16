@@ -13,6 +13,6 @@ Am Ende jedes Tutorials sollt ihr den letzten Stand von *index.html* und *style.
     * *index.html (7/7)* erreichbar unter <https://username.github.io/codecademy/css_setup/index.html>
     * *style.css (7/7)* erreichbar unter <https://username.github.io/codecademy/css_setup/style.css>
 
-Der [Link Checker](https://webmapping.github.io/linkchecker.html) hilft euch bei der Überprüfung, ob die Dateien am richtigen Ort liegen
+Der [Link Checker](https://webmapping22s.github.io/linkchecker.html) hilft euch bei der Überprüfung, ob die Dateien am richtigen Ort liegen
 
 Bis spätestens **Donnerstag, 31. März 2022 mittags** sollen die HTML- und CSS-Dateien über die angegebenen Links erreichbar sein

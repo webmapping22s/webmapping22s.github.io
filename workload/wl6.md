@@ -20,6 +20,6 @@
     * ergänzt die Datenquellen mit Links zu den Hauptseiten der fünf Layer bei <https://data.gv.at> im Footer
 
 
-Für das Wien Beispiel sind die drei HOWTO-Anleitungen jetzt auch direkt bei unserer Seite <https://webmapping.github.io/wien/> rechts oben verlinkt.
+Für das Wien Beispiel sind die drei HOWTO-Anleitungen jetzt auch direkt bei unserer Seite <https://webmapping22s.github.io/wien/> rechts oben verlinkt.
 
 Bis spätestens **Donnerstag, 12. Mai 2022 mittags** soll die fertige Seite online erreichbar sein

@@ -16,8 +16,8 @@
     * [Leaflet.fullscreen](https://github.com/Leaflet/Leaflet.fullscreen) implementieren
     * [Leaflet.MiniMap](https://github.com/Norkart/Leaflet-MiniMap) implementieren
 
-Für das Neuseeland Beispiel sind die HOWTO-Anleitungen jetzt direkt bei unserer Seite <https://webmapping.github.io/nz/> ganz oben verlinkt und die Änderungen von gestern (if-Abfragen für Eingangsblick, Hüttenstatus und Etappennavigation) sind im HOWTO 4 ergänzt.
+Für das Neuseeland Beispiel sind die HOWTO-Anleitungen jetzt direkt bei unserer Seite <https://webmapping22s.github.io/nz/> ganz oben verlinkt und die Änderungen von gestern (if-Abfragen für Eingangsblick, Hüttenstatus und Etappennavigation) sind im HOWTO 4 ergänzt.
 
-Der [Link Checker](https://webmapping.github.io/linkchecker.html) hilft euch bei der Überprüfung, ob die Dateien am richtigen Ort liegen
+Der [Link Checker](https://webmapping22s.github.io/linkchecker.html) hilft euch bei der Überprüfung, ob die Dateien am richtigen Ort liegen
 
 Bis spätestens **Donnerstag, 5. Mai 2022 mittags** sollen die fertigen Seiten online erreichbar sein
